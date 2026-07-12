@@ -1,34 +1,23 @@
-\---
+---
+title: Filozofia - notatki do lekcji
+---
 
-title: Filozofia - materiały przykładowe
+# Witaj!
 
-\---
+W spisie treści po lewej znajdziesz przykładowe notatki z moich korepetycji z filozofii, pokazujące jak wygląda materiał, który przygotowuję dla uczniów. Były pisane dla maturzystów.
 
+Udzielam korepetycji na każdym poziomie zaawansowania licealnej filozofii, od podstaw, do olimpiady filozoficznej.
 
+Większość notatek ma linki wewnętrzne do innych notatek, tzw. wikilinks. Ich celem jest ułatwienie uczniom samodzielnej nauki poprzez szybkie przekierowanie do definicji trudniejszych pojęć. Nie zamieściłam tu obrazów, zadań maturalnych i własnych przez trudności z zamieszczaniem ich na tej stronie.
 
-\# Witaj!
+Uczę z naciskiem na uświadamianie połączeń między filozofami i ich pozycjami, oraz staram się pokazać, w jaki sposób ich różne opinie i spory wynikają z siebie wzajemnie.
 
+Jeśli chcesz wiedzieć więcej i/lub zapisać się na zajęcia, napisz na zuzuzuzuzu8691@gmail.com. Organizuję zajęcia online i stacjonarnie w Warszawie, za 50zł/h.
 
+## Notatki
 
-To są przykładowe notatki z moich korepetycji z filozofii, pokazujące jak wygląda materiał, który przygotowuję dla uczniów.
-
-
-
-\## Notatki
-
-
-
-\- \[\[999. Display/1. Arche|1. Arche]]
-
-\- \[\[999. Display/2. Pojęcia filozofii|2. Pojęcia filozofii]]
-
-\- \[\[999. Display/3. Pierwsze spory filozoficzne|3. Pierwsze spory filozoficzne]]
-
-\- \[\[999. Display/4. Platon|4. Platon]]
-
-\- \[\[999. Display/5. Arystoteles|5. Arystoteles]]
-
-
-
-Zainteresowany korepetycjami? Napisz do mnie!
-
+- [[999. Display/1. Arche|1. Arche]]
+- [[999. Display/2. Pojęcia filozofii|2. Pojęcia filozofii]]
+- [[999. Display/3. Pierwsze spory filozoficzne|3. Pierwsze spory filozoficzne]]
+- [[999. Display/4. Platon|4. Platon]]
+- [[999. Display/5. Arystoteles|5. Arystoteles]]
