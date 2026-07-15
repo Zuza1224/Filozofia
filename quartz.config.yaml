@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: goatcounter
-    websiteId: your-account-name
+    websiteId: zuza1224
   locale: en-US
   baseUrl: zuza1224.github.io/Filozofia
   ignorePatterns:
