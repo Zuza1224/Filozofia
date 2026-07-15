@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: goatcounter
+    websiteId: your-account-name
   locale: en-US
   baseUrl: zuza1224.github.io/Filozofia
   ignorePatterns:
